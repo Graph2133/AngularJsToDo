@@ -1,9 +1,8 @@
 {
-  "name": "angular-seed",
+  "name": "AngularJsToDo",
   "private": true,
-  "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "version": "1.0.0",
+  "description": "Simple AngularJS To-Do App",
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.7.7",
